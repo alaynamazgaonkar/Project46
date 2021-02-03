@@ -1,3 +1,7 @@
+// To shift to the second city, press 'space'
+// To shift to the third city/castle, press'v'
+
+
 var gamestate=1;
 var game=0;
 var coins=0;
